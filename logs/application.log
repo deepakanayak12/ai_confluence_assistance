@@ -7,3 +7,280 @@
 2026-06-23 11:42:20,006 - confluence_app - INFO - Confluence Service Initialized
 2026-06-23 11:44:25,024 - confluence_app - INFO - Starting Confluence Assistance Application
 2026-06-23 11:44:25,025 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 12:20:56,386 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:21:21,317 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:23:36,932 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:23:36,934 - confluence_app - ERROR - Attempt 1: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:23:36,934 - confluence_app - INFO - Retrying...
+2026-06-23 12:24:00,425 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:24:00,428 - confluence_app - ERROR - Attempt 1: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:24:00,436 - confluence_app - INFO - Retrying...
+2026-06-23 12:24:00,454 - confluence_app - ERROR - Attempt 2: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:24:00,516 - confluence_app - INFO - Retrying...
+2026-06-23 12:24:00,554 - confluence_app - ERROR - Attempt 3: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:24:00,568 - confluence_app - CRITICAL - All retries failed
+2026-06-23 12:26:18,101 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:26:18,101 - confluence_app - ERROR - Attempt 1: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:26:18,102 - confluence_app - INFO - Retrying...
+2026-06-23 12:26:18,102 - confluence_app - ERROR - Attempt 2: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:26:18,102 - confluence_app - INFO - Retrying...
+2026-06-23 12:26:18,103 - confluence_app - ERROR - Attempt 3: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:26:18,103 - confluence_app - CRITICAL - All retries failed
+2026-06-23 12:26:46,332 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:26:46,333 - confluence_app - ERROR - Attempt 1: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:26:46,333 - confluence_app - INFO - Retrying...
+2026-06-23 12:26:46,334 - confluence_app - ERROR - Attempt 2: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:26:46,334 - confluence_app - INFO - Retrying...
+2026-06-23 12:26:46,334 - confluence_app - ERROR - Attempt 3: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:26:46,335 - confluence_app - CRITICAL - All retries failed
+2026-06-23 12:26:48,107 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:26:48,108 - confluence_app - ERROR - Attempt 1: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:26:48,108 - confluence_app - INFO - Retrying...
+2026-06-23 12:26:48,109 - confluence_app - ERROR - Attempt 2: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:26:48,109 - confluence_app - INFO - Retrying...
+2026-06-23 12:26:48,109 - confluence_app - ERROR - Attempt 3: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:26:48,110 - confluence_app - CRITICAL - All retries failed
+2026-06-23 12:26:49,902 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:26:49,902 - confluence_app - ERROR - Attempt 1: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:26:49,902 - confluence_app - INFO - Retrying...
+2026-06-23 12:26:49,903 - confluence_app - ERROR - Attempt 2: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:26:49,903 - confluence_app - INFO - Retrying...
+2026-06-23 12:26:49,903 - confluence_app - ERROR - Attempt 3: 'builtin_function_or_method' object has no attribute 'choice'
+2026-06-23 12:26:49,903 - confluence_app - CRITICAL - All retries failed
+2026-06-23 12:30:42,282 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:30:42,283 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:32:00,921 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:32:00,922 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:32:10,495 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:32:10,496 - confluence_app - ERROR - Failed to initialize Confluence service
+Traceback (most recent call last):
+  File "c:\Users\denayak\Ai_Projects\Ai_Confluence_Assistance\services\confluence.py", line 21, in confluenceservice
+    raise Exception("Confluence Service Failed to Initialize")
+Exception: Confluence Service Failed to Initialize
+2026-06-23 12:32:10,512 - confluence_app - ERROR - Attempt 1: Confluence Service Failed to Initialize
+2026-06-23 12:32:10,513 - confluence_app - INFO - Retrying...
+2026-06-23 12:32:10,513 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:32:13,391 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:32:13,392 - confluence_app - ERROR - Failed to initialize Confluence service
+Traceback (most recent call last):
+  File "c:\Users\denayak\Ai_Projects\Ai_Confluence_Assistance\services\confluence.py", line 21, in confluenceservice
+    raise Exception("Confluence Service Failed to Initialize")
+Exception: Confluence Service Failed to Initialize
+2026-06-23 12:32:13,398 - confluence_app - ERROR - Attempt 1: Confluence Service Failed to Initialize
+2026-06-23 12:32:13,398 - confluence_app - INFO - Retrying...
+2026-06-23 12:32:13,399 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:32:15,073 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:32:15,074 - confluence_app - ERROR - Failed to initialize Confluence service
+Traceback (most recent call last):
+  File "c:\Users\denayak\Ai_Projects\Ai_Confluence_Assistance\services\confluence.py", line 21, in confluenceservice
+    raise Exception("Confluence Service Failed to Initialize")
+Exception: Confluence Service Failed to Initialize
+2026-06-23 12:32:15,081 - confluence_app - ERROR - Attempt 1: Confluence Service Failed to Initialize
+2026-06-23 12:32:15,081 - confluence_app - INFO - Retrying...
+2026-06-23 12:32:15,081 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:32:16,191 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:32:16,192 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:32:17,094 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:32:17,095 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:32:18,153 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:32:18,154 - confluence_app - ERROR - Failed to initialize Confluence service
+Traceback (most recent call last):
+  File "c:\Users\denayak\Ai_Projects\Ai_Confluence_Assistance\services\confluence.py", line 21, in confluenceservice
+    raise Exception("Confluence Service Failed to Initialize")
+Exception: Confluence Service Failed to Initialize
+2026-06-23 12:32:18,179 - confluence_app - ERROR - Attempt 1: Confluence Service Failed to Initialize
+2026-06-23 12:32:18,192 - confluence_app - INFO - Retrying...
+2026-06-23 12:32:18,197 - confluence_app - ERROR - Failed to initialize Confluence service
+Traceback (most recent call last):
+  File "c:\Users\denayak\Ai_Projects\Ai_Confluence_Assistance\services\confluence.py", line 21, in confluenceservice
+    raise Exception("Confluence Service Failed to Initialize")
+Exception: Confluence Service Failed to Initialize
+2026-06-23 12:32:18,210 - confluence_app - ERROR - Attempt 2: Confluence Service Failed to Initialize
+2026-06-23 12:32:18,213 - confluence_app - INFO - Retrying...
+2026-06-23 12:32:18,227 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:33:43,320 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:33:43,321 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:33:43,322 - confluence_app - INFO - Attempt 1: Confluence Service Initialized Successfully
+2026-06-23 12:35:04,817 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:35:04,821 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:35:04,822 - confluence_app - INFO - Attempt 1: Confluence Service Initialized Successfully
+2026-06-23 12:35:09,991 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:35:09,992 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:35:09,992 - confluence_app - INFO - Attempt 1: Confluence Service Initialized Successfully
+2026-06-23 12:35:12,640 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:35:12,640 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:35:12,641 - confluence_app - INFO - Attempt 1: Confluence Service Initialized Successfully
+2026-06-23 12:35:14,665 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:35:14,695 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:35:14,706 - confluence_app - INFO - Attempt 1: Confluence Service Initialized Successfully
+2026-06-23 12:35:16,255 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:35:16,256 - confluence_app - ERROR - Failed to initialize Confluence service
+Traceback (most recent call last):
+  File "c:\Users\denayak\Ai_Projects\Ai_Confluence_Assistance\services\confluence.py", line 21, in confluenceservice
+    raise Exception("Confluence Service Failed to Initialize")
+Exception: Confluence Service Failed to Initialize
+2026-06-23 12:35:16,270 - confluence_app - ERROR - Attempt 1: Confluence Service Failed to Initialize
+2026-06-23 12:35:16,271 - confluence_app - INFO - Retrying...
+2026-06-23 12:35:16,271 - confluence_app - ERROR - Failed to initialize Confluence service
+Traceback (most recent call last):
+  File "c:\Users\denayak\Ai_Projects\Ai_Confluence_Assistance\services\confluence.py", line 21, in confluenceservice
+    raise Exception("Confluence Service Failed to Initialize")
+Exception: Confluence Service Failed to Initialize
+2026-06-23 12:35:16,273 - confluence_app - ERROR - Attempt 2: Confluence Service Failed to Initialize
+2026-06-23 12:35:16,274 - confluence_app - INFO - Retrying...
+2026-06-23 12:35:16,275 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:35:16,275 - confluence_app - INFO - Attempt 3: Confluence Service Initialized Successfully
+2026-06-23 12:36:37,963 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:36:37,964 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:36:37,964 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:37:44,426 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 12:37:44,427 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 12:37:44,427 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 13:16:05,074 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:16:05,075 - confluence_app - ERROR - Failed to initialize Confluence service
+Traceback (most recent call last):
+  File "c:\Users\denayak\Ai_Projects\Ai_Confluence_Assistance\services\confluence.py", line 21, in confluenceservice
+    raise Exception("Confluence Service Failed to Initialize")
+Exception: Confluence Service Failed to Initialize
+2026-06-23 13:16:05,086 - confluence_app - ERROR - Attempt 1: Confluence Service Failed to Initialize
+2026-06-23 13:16:05,087 - confluence_app - INFO - Retrying...
+2026-06-23 13:16:05,087 - confluence_app - ERROR - Failed to initialize Confluence service
+Traceback (most recent call last):
+  File "c:\Users\denayak\Ai_Projects\Ai_Confluence_Assistance\services\confluence.py", line 21, in confluenceservice
+    raise Exception("Confluence Service Failed to Initialize")
+Exception: Confluence Service Failed to Initialize
+2026-06-23 13:16:05,088 - confluence_app - ERROR - Attempt 2: Confluence Service Failed to Initialize
+2026-06-23 13:16:05,088 - confluence_app - INFO - Retrying...
+2026-06-23 13:16:05,088 - confluence_app - ERROR - Failed to initialize Confluence service
+Traceback (most recent call last):
+  File "c:\Users\denayak\Ai_Projects\Ai_Confluence_Assistance\services\confluence.py", line 21, in confluenceservice
+    raise Exception("Confluence Service Failed to Initialize")
+Exception: Confluence Service Failed to Initialize
+2026-06-23 13:16:05,089 - confluence_app - ERROR - Attempt 3: Confluence Service Failed to Initialize
+2026-06-23 13:16:05,089 - confluence_app - CRITICAL - All retries failed
+2026-06-23 13:27:20,776 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:27:20,777 - confluence_app - ERROR - Attempt 1: 
+2026-06-23 13:27:20,778 - confluence_app - INFO - Retrying...
+2026-06-23 13:27:20,779 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:27:45,139 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:27:45,140 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:27:50,479 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:27:50,481 - confluence_app - ERROR - Attempt 1: 
+2026-06-23 13:27:50,481 - confluence_app - INFO - Retrying...
+2026-06-23 13:27:50,482 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:27:59,558 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:27:59,564 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:27:59,565 - confluence_app - INFO - Retrying...
+2026-06-23 13:27:59,566 - confluence_app - ERROR - Attempt 2: Failed to initialize Confluence Service
+2026-06-23 13:27:59,568 - confluence_app - INFO - Retrying...
+2026-06-23 13:27:59,572 - confluence_app - ERROR - Attempt 3: Failed to initialize Confluence Service
+2026-06-23 13:27:59,574 - confluence_app - CRITICAL - All retries failed
+2026-06-23 13:29:16,133 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:29:16,134 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:29:25,463 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:29:25,463 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:29:25,463 - confluence_app - INFO - Retrying...
+2026-06-23 13:29:25,464 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:30:16,800 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:30:16,801 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:30:20,991 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:30:20,991 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:30:22,296 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:30:22,296 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:30:22,296 - confluence_app - INFO - Retrying...
+2026-06-23 13:30:22,297 - confluence_app - ERROR - Attempt 2: Failed to initialize Confluence Service
+2026-06-23 13:30:22,297 - confluence_app - INFO - Retrying...
+2026-06-23 13:30:22,297 - confluence_app - ERROR - Attempt 3: Failed to initialize Confluence Service
+2026-06-23 13:30:22,297 - confluence_app - CRITICAL - All retries failed
+2026-06-23 13:30:55,250 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:30:55,251 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:30:55,251 - confluence_app - INFO - Retrying...
+2026-06-23 13:30:55,251 - confluence_app - ERROR - Attempt 2: Failed to initialize Confluence Service
+2026-06-23 13:30:55,252 - confluence_app - INFO - Retrying...
+2026-06-23 13:30:58,443 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:30:58,443 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:30:58,444 - confluence_app - INFO - Retrying...
+2026-06-23 13:30:58,444 - confluence_app - ERROR - Attempt 2: Failed to initialize Confluence Service
+2026-06-23 13:30:58,444 - confluence_app - INFO - Retrying...
+2026-06-23 13:31:00,341 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:31:00,342 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:31:00,342 - confluence_app - INFO - Retrying...
+2026-06-23 13:31:00,342 - confluence_app - ERROR - Attempt 2: Failed to initialize Confluence Service
+2026-06-23 13:31:00,342 - confluence_app - INFO - Retrying...
+2026-06-23 13:31:46,882 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:31:46,896 - confluence_app - INFO - Confluence Service Initialized Successfully
+2026-06-23 13:32:21,361 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:32:21,363 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:32:24,636 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:32:24,636 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:32:25,899 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:32:25,900 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:32:27,049 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:32:27,049 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:32:27,050 - confluence_app - INFO - Retrying...
+2026-06-23 13:32:27,050 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:32:44,116 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:32:44,117 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:32:46,199 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:32:46,199 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:33:54,683 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:33:54,683 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:33:54,684 - confluence_app - INFO - Retrying...
+2026-06-23 13:34:28,019 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:34:28,019 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:34:28,020 - confluence_app - INFO - Retrying...
+2026-06-23 13:34:30,020 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:34:50,742 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:34:50,743 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:35:25,051 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:35:25,052 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:35:25,052 - confluence_app - INFO - Retrying...
+2026-06-23 13:35:27,053 - confluence_app - ERROR - Attempt 2: Failed to initialize Confluence Service
+2026-06-23 13:35:27,054 - confluence_app - INFO - Retrying...
+2026-06-23 13:35:29,054 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:39:05,468 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:39:05,469 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:39:05,469 - confluence_app - INFO - Retrying...
+2026-06-23 13:39:07,470 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:39:09,229 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:39:09,230 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:39:10,835 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:39:10,836 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:39:10,836 - confluence_app - INFO - Retrying...
+2026-06-23 13:39:12,837 - confluence_app - ERROR - Attempt 2: Failed to initialize Confluence Service
+2026-06-23 13:39:12,838 - confluence_app - INFO - Retrying...
+2026-06-23 13:39:14,839 - confluence_app - ERROR - Attempt 3: Failed to initialize Confluence Service
+2026-06-23 13:39:14,840 - confluence_app - CRITICAL - All retries failed
+2026-06-23 13:39:44,236 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:39:44,236 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:39:44,237 - confluence_app - INFO - Retrying...
+2026-06-23 13:39:46,237 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:39:51,406 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:39:51,407 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:39:57,804 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:39:57,804 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:39:57,805 - confluence_app - INFO - Retrying...
+2026-06-23 13:39:59,805 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:40:02,431 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:40:02,432 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:40:02,432 - confluence_app - INFO - Retrying...
+2026-06-23 13:40:04,433 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:40:07,013 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:40:07,014 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:40:12,542 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:40:12,542 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:40:14,057 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:40:14,058 - confluence_app - INFO - Confluence Service Initialized
+2026-06-23 13:40:15,634 - confluence_app - INFO - Starting Confluence Assistance Application
+2026-06-23 13:40:15,635 - confluence_app - ERROR - Attempt 1: Failed to initialize Confluence Service
+2026-06-23 13:40:15,635 - confluence_app - INFO - Retrying...
+2026-06-23 13:40:17,636 - confluence_app - ERROR - Attempt 2: Failed to initialize Confluence Service
+2026-06-23 13:40:17,637 - confluence_app - INFO - Retrying...
+2026-06-23 13:40:19,638 - confluence_app - ERROR - Attempt 3: Failed to initialize Confluence Service
+2026-06-23 13:40:19,638 - confluence_app - CRITICAL - All retries failed
+Traceback (most recent call last):
+  File "c:\Users\denayak\Ai_Projects\Ai_Confluence_Assistance\main.py", line 14, in main
+    service = confluence.confluenceservice()
+  File "c:\Users\denayak\Ai_Projects\Ai_Confluence_Assistance\services\confluence.py", line 9, in confluenceservice
+    raise Exception ("Failed to initialize Confluence Service")
+Exception: Failed to initialize Confluence Service
